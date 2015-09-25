@@ -1,0 +1,6 @@
+[submodule "vex"]
+	path = vex
+	url = https://github.com/fredericgermain/vex.git
+[submodule "valgrind-vex"]
+	path = valgrind-vex
+	url = https://github.com/svn2github/valgrind-vex.git
